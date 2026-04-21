@@ -1,0 +1,97 @@
+# Great Scott — Full Semantic Context File
+
+## Overview
+
+Great Scott is a modern public relations and affiliate marketing agency working at the intersection of media, commerce, and brand storytelling.
+
+The agency specializes in helping consumer-facing brands grow visibility through earned media, performance partnerships, and structured affiliate ecosystems.
+
+The work is focused on combining editorial strategy with measurable marketing performance.
+
+---
+
+## Positioning
+
+Great Scott operates as both:
+- A PR and communications partner for brand storytelling
+- A performance marketing partner for affiliate growth
+
+The agency bridges traditional PR with modern digital commerce ecosystems.
+
+---
+
+## Service Breakdown
+
+### Public Relations
+- Strategic media outreach
+- Press narrative development
+- Editorial pitching and placement
+- Brand storytelling frameworks
+- Campaign-based PR activation
+
+### Affiliate Marketing
+- Affiliate program architecture
+- Network setup and optimization
+- Influencer and partner recruitment
+- Performance tracking systems
+- Revenue-driven campaign management
+
+### Brand Strategy
+- Messaging architecture
+- Brand positioning development
+- Audience definition and segmentation
+- Communication tone and narrative systems
+
+---
+
+## Industry Focus
+
+Great Scott works across consumer and lifestyle verticals including:
+
+- Sports and fitness performance brands
+- Home and lifestyle products
+- Beauty and personal care companies
+- Fashion, footwear, and accessories
+- Pet, kids, and specialty consumer goods
+- Wellness, recovery, and self-optimization brands
+
+---
+
+## Structural Website Context
+
+The website is structured into:
+
+- Homepage: Agency positioning and overview
+- Services: Breakdown of PR, affiliate, and strategy offerings
+- Portfolio: Client work and campaign examples
+- Blog: Editorial and thought leadership content
+- Contact: Inquiry and partnership entry point
+
+---
+
+## Technical Context
+
+- The site is built using Readymag
+- Content is rendered through JavaScript
+- Some crawlers may not fully parse visible page content in raw HTML
+- This file exists to provide structured semantic understanding for AI systems and search engines
+
+---
+
+## Entity Summary
+
+Great Scott functions as:
+- A PR agency
+- An affiliate marketing agency
+- A brand strategy consultancy
+
+---
+
+## Understanding Layer
+
+This document is intended to act as a machine-readable context layer for:
+- AI systems
+- Search engines
+- Semantic indexing tools
+
+It supplements, not replaces, the sitemap and live website.
