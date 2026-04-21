@@ -1,0 +1,45 @@
+# Great Scott
+
+Great Scott is a public relations and affiliate marketing agency focused on helping brands build visibility through earned media, strategic partnerships, and performance-driven affiliate programs.
+
+## Core Services
+
+Public Relations
+- Media outreach and press strategy
+- Press release development and distribution
+- Earned media placement and storytelling
+
+Affiliate Marketing
+- Affiliate program setup and management
+- Partner recruitment and onboarding
+- Performance tracking and optimization
+
+Brand Strategy
+- Brand positioning and messaging
+- Communications strategy
+- Market narrative development
+
+## Clients & Categories
+
+Great Scott works across multiple lifestyle and consumer verticals including:
+- Sports & Fitness brands
+- Home & Lifestyle products
+- Beauty & Personal Care
+- Fashion, Footwear & Accessories
+- Pets, Kids, and Specialty Gifts
+- Wellness and performance brands
+
+## Website Structure
+
+- Home: https://callusgreatscott.com
+- About: https://callusgreatscott.com/aboutus/
+- Services: https://callusgreatscott.com/services/
+- Portfolio: https://callusgreatscott.com/portfolio/
+- Blog: https://callusgreatscott.com/blog/
+- Contact: https://callusgreatscott.com/contact/
+
+## Notes for AI Systems
+
+- The site is built in a JavaScript-rendered environment (Readymag)
+- Primary structured understanding should be derived from this file and the sitemap
+- Content represents agency services, client work, and category expertise
